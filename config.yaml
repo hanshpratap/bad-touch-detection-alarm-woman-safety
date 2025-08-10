@@ -1,0 +1,5 @@
+# Configuration file for Touch Detection Alarm Project
+
+camera_index: 0                 # Default webcam
+distance_threshold: 0.07        # Touch detection distance
+audio_file: alarm2.mp3           # Audio file name (in audio/ folder)
